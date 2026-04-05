@@ -1,4 +1,4 @@
-<h1 align="center">Hi ! , I'm Rizal Pratama</h1>
+<h1 align="center">Rizal Pratama</h1>
 <h3 align="center">Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalllrizalll&label=Profile%20views&color=0e75b6&style=flat" alt="zalllrizalll" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zalllrizalll](https://github.com/zalllrizalll)
 
-- 💬 Ask me about **JavaScript, PHP, Java, Kotlin, Dart, Typescript**
+- 💬 Ask me about **Java, Kotlin, Dart**
 
 - 📫 How to reach me **zalllrizalll012@gmail.com**
 
